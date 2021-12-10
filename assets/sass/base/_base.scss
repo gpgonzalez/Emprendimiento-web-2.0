@@ -1,0 +1,26 @@
+body{
+   
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;  
+    
+}
+
+img {
+    max-width: 100%;
+  }
+
+  .my-card {
+    width: 100%;
+  }
+
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    
+}

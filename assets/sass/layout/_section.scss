@@ -1,0 +1,76 @@
+section{
+    max-width: 97%;
+    border: 1px solid black;
+    text-align: left;
+    padding-top: 10px;
+    margin-left: 5px;
+}
+
+.section_curso1{
+    border: 0.5px solid black;
+    margin: 5px 5px;
+    padding: 10px;
+        
+}
+
+.section_curso2{
+    border: 0.5px solid black;
+    margin: 5px 5px;
+    padding: 10px;
+}
+
+.section_curso1 img {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.section_curso2 img {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.section_span_img img{
+    width: 20px;  
+    padding-right: 5px; 
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.section h2{
+    font-weight: bolder;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: $poppins;
+    
+}
+
+.section h5{
+    margin-bottom: 10px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: $poppins;
+    
+}
+
+.section p {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: justify;
+    font-family: $ubuntu; 
+    font-size: $small;
+    
+}
+

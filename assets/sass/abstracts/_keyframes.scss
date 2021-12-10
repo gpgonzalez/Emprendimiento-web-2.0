@@ -1,0 +1,33 @@
+@keyframes rotate {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+.engranaje_exterior,
+.engranaje_centro{
+    animation: rotate 2s linear infinite;
+    transform-origin: 80% 80%;
+}
+
+@keyframes translacion {
+    0%{
+        transform: translateX(0);
+        // transform: translate(0);
+        
+    }
+
+    100%{
+        transform: translateX(50%);
+        // transform: translate(50%);
+        
+
+    }
+}
+
+.alado {
+    animation: translacion 3s infinite linear;
+    
+}

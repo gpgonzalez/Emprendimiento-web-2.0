@@ -1,0 +1,62 @@
+article{
+    max-width: 97%;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 5px;   
+}
+
+.article_curso_disponibles{
+    list-style:circle;
+    text-align: left;
+    margin: 30px;
+    font-size: $medium;
+    font-weight: 300;
+    color: $sable;
+    font-family: $ubuntu;
+    
+}
+
+.article h3{
+    padding: 10px 0;
+    font-family: $poppins;
+    font-weight: bold;
+    font-size: $small;
+    
+}
+
+.article_imagen_principal{
+    width: 20%;    
+    border-radius: 50%;
+}
+
+.article_p{
+    padding: 20px 20px 30px 20px;    
+}
+
+.article_imagen_redes{
+    width: 25px;
+}
+
+.article p{
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+.article_curso{
+    margin-top: 30px;
+    text-align: center;
+    background-color: $sable;
+    padding : 15px 0;   
+    color: white;
+    font-family: $poppins;
+}
+
+
+
+.article_imagen_movimento{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
